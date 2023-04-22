@@ -49,7 +49,7 @@ Just change `username` and `repository` to yours and you are good to go!
 
 ## Author
 
-👤 **Amresh Sinha**
+👤 **Theodor Nakajima**
 
 - Github: [@TheodorNakajima](https://github.com/OlekSytn/)
 - LinkedIn: [@TheodorNakajima](https://www.linkedin.com/in/theodor-nakajima-66129b273/)
